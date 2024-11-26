@@ -1,0 +1,9 @@
+BUILD
+.mbed
+compile_commands.json
+.clangd
+.cache
+APDS9960-GestureSensor
+m3pi
+mbed
+SDFileSystem

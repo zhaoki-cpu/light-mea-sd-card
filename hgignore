@@ -1,0 +1,12 @@
+^BUILD$
+^.mbed$
+^compile_commands.json$
+^.clangd$
+^.cache$
+^m3pi$
+^mbed$
+^APDS_9960$
+^rpi-examples$
+^wiringpi$
+^APDS9960_I2C$
+^APDS9960-GestureSensor$
